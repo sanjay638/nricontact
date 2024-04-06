@@ -1,0 +1,86 @@
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\bin\Debug\NRIcontact.exe.config
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\bin\Debug\NRIcontact.exe
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\bin\Debug\NRIcontact.pdb
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.csproj.AssemblyReference.cache
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.NRIcontact.resources
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.Properties.Resources.resources
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.csproj.GenerateResource.cache
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.csproj.CoreCompileInputs.cache
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.exe
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.pdb
+D:\3.MCA THIRD SEMESTER\SOFTWARE PROJECT II\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.NRIcontactLoginForm.resources
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\NRIcontact.exe.config
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\NRIcontact.exe
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\NRIcontact.pdb
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.csproj.AssemblyReference.cache
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.NRIcontactLoginForm.resources
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.NRIcontact.resources
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.Properties.Resources.resources
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.csproj.GenerateResource.cache
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.csproj.CoreCompileInputs.cache
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.exe
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.pdb
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.csproj.CopyComplete
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.Jobdetails.resources
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\RdlCompile.cache
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\RdlCompile.compiled
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\EnvDTE.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\stdole.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\Microsoft.MSXML.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.ReportForm.resources
+D:\3.MCA THIRD SEMESTER\1.project\0s\NRIcontact\NRIcontact\obj\Debug\NRIcontact.ProofDetails.resources
